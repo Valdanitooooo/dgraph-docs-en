@@ -1,16 +1,16 @@
-- [Home](README.md)
+- [Home](en/home/index.md)
 
-- [Get Started](get-started/index.md)
+- [Get Started](en/get-started/index.md)
 
-- [Query Language](query-language/index.md)
+- [Query Language](en/query-language/index.md)
 
-- [GraphQL+- Tips and Tricks](tips/index.md)
-- [Mutations](mutations/index.md)
-- [Clients](clients/index.md)
-- [Deploy](deploy/index.md)
-- [FAQ](faq/index.md)
-- [How To Guides](howto/index.md)
-- [Design Concepts](design-concepts/index.md)
-- [Dgraph Compared to Other](dgraph-compared-to-other-databases/index.md)
+- [GraphQL+- Tips and Tricks](en/tips/index.md)
+- [Mutations](en/mutations/index.md)
+- [Clients](en/clients/index.md)
+- [Deploy](en/deploy/index.md)
+- [FAQ](en/faq/index.md)
+- [How To Guides](en/howto/index.md)
+- [Design Concepts](en/design-concepts/index.md)
+- [Dgraph Compared to Other](en/dgraph-compared-to-other-databases/index.md)
   
-- [Changelog](changelog.md)
+- [Changelog](en/CHANGELOG.md)
